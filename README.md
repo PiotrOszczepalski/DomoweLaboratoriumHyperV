@@ -58,6 +58,13 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="418" height="531" alt="image" src="https://github.com/user-attachments/assets/9f19d205-8b9a-4953-9042-39a5d84318bf" />
 
+5. Ponowna konfiguracja klienta:
+- przyłączenie komputera do domeny
+- logowanie do systemu
+
+<img width="609" height="482" alt="image" src="https://github.com/user-attachments/assets/b02af264-5556-4d5b-b90a-f4fd5042c972" />
+
+
 
 
 
