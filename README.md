@@ -15,4 +15,12 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="558" height="271" alt="image" src="https://github.com/user-attachments/assets/9838d895-d1a9-46c1-a398-6ca13749d159" />
 
+2. Instalacja systemów:
+- Windows Server 2016
+- Windows 10 Pro
+
+<img width="638" height="479" alt="image" src="https://github.com/user-attachments/assets/123842ac-d130-4838-bd8a-81360001d94b" />
+
+<img width="635" height="475" alt="image" src="https://github.com/user-attachments/assets/da642532-2893-4608-a088-aa0cb27c0f10" />
+
 
