@@ -85,6 +85,43 @@ Klient po aktualizacji zasad:
 
 <img width="795" height="484" alt="image" src="https://github.com/user-attachments/assets/ee985172-237c-48c4-a97b-ffe0a4ab542b" />
 
+7. DHCP & Routing:
+- instalacja usługi DHCP i routingu
+- tworzenie nowego zakresu
+- przydzielenie adresu ip klientowi
+- konfiguracja routingu i uzyskanie dostępu do internetu przez klienta
+
+<img width="764" height="460" alt="image" src="https://github.com/user-attachments/assets/1ccd4fdb-c2ee-468e-8b99-963e5cc01c4f" />
+
+<img width="774" height="510" alt="image" src="https://github.com/user-attachments/assets/d577a867-c40b-4555-9056-aed49f539c53" />
+
+<img width="588" height="498" alt="image" src="https://github.com/user-attachments/assets/681cfcef-9ef5-4fce-a490-b7c3ca9d8855" />
+
+<img width="632" height="466" alt="image" src="https://github.com/user-attachments/assets/262161b6-f09b-4098-a7b4-5c319a569aa5" />
+
+<img width="619" height="441" alt="image" src="https://github.com/user-attachments/assets/f8e86fd2-751b-4f83-ab1a-10bff9999c43" />
+
+Klient:
+
+<img width="398" height="450" alt="image" src="https://github.com/user-attachments/assets/71921d36-2e38-43d6-9115-167acc42a721" />
+
+<img width="549" height="207" alt="image" src="https://github.com/user-attachments/assets/a0bf6b82-f786-4d2d-9d5e-a76685123fda" />
+
+Klient uzyskał dostęp do internetu:
+
+<img width="246" height="126" alt="image" src="https://github.com/user-attachments/assets/4f2fa819-2a9d-44a2-b492-e8f1b711d4d3" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
