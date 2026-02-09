@@ -111,6 +111,30 @@ Klient uzyskał dostęp do internetu:
 
 <img width="246" height="126" alt="image" src="https://github.com/user-attachments/assets/4f2fa819-2a9d-44a2-b492-e8f1b711d4d3" />
 
+8. DNS:
+- stworzenie strefy wyszukiwania do przodu
+- stworzenie stefy wyszukiwania wstecznego
+- dodanie nowego hosta
+- wskazanie rekordu jako główny serwer dla strefy
+- klient korzysta z usługi DNS
+
+<img width="752" height="526" alt="image" src="https://github.com/user-attachments/assets/ce6d6bf6-0939-4621-ae84-344556e7f4ac" />
+
+<img width="748" height="521" alt="image" src="https://github.com/user-attachments/assets/6a41f50c-c6b4-43ba-9a3f-598d801726aa" />
+
+<img width="755" height="522" alt="image" src="https://github.com/user-attachments/assets/c2ce722e-4cf2-4a6c-b008-dc4d84a2c995" />
+
+<img width="750" height="530" alt="image" src="https://github.com/user-attachments/assets/5f37a089-24aa-47b3-b3d1-4a920d3b22b4" />
+
+Klient:
+
+<img width="446" height="168" alt="image" src="https://github.com/user-attachments/assets/957fb496-8f6b-4d38-b528-d0caaddac5a8" />
+
+
+
+
+
+
 
 
 
