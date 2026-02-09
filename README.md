@@ -139,6 +139,11 @@ Klient:
 
 <img width="751" height="530" alt="image" src="https://github.com/user-attachments/assets/9b1154d8-fc5c-40db-a604-2dba27f13942" />
 
+Strona www po stronie klienta:
+
+<img width="470" height="240" alt="image" src="https://github.com/user-attachments/assets/7a4f7a0a-fee5-4524-ad08-b0aa353286e5" />
+
+
 
 
 
