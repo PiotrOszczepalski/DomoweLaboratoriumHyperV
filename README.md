@@ -35,6 +35,15 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="395" height="449" alt="image" src="https://github.com/user-attachments/assets/db019065-c02f-4f80-acc2-609c097cc9f6" />
 
+4. Konfiguracja klienta:
+- ustawienie adresu ip, bramy domyślnej, serwera DNS
+- test połączenia z serwerem
+
+<img width="396" height="449" alt="image" src="https://github.com/user-attachments/assets/39e46f89-580c-4df0-a036-7bf71f03ed07" />
+<img width="455" height="210" alt="image" src="https://github.com/user-attachments/assets/ce5944a4-6115-4054-841e-9820fa505c97" />
+
+
+
 
 
 
