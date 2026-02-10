@@ -147,6 +147,24 @@ Strona www po stronie klienta:
 
 <img width="470" height="240" alt="image" src="https://github.com/user-attachments/assets/7a4f7a0a-fee5-4524-ad08-b0aa353286e5" />
 
+11. Snapshoty/Checkpointy w Hyper-V:
+- utworzenie checkpointu
+- dodanie nowych plików na serwerze
+- powrót do checkpointu
+- udany powrót (pliki zniknęły)
+
+<img width="554" height="348" alt="image" src="https://github.com/user-attachments/assets/2af16b13-95b9-421b-9974-57445d70dd7c" />
+
+<img width="543" height="178" alt="image" src="https://github.com/user-attachments/assets/43a1ca59-f3d7-4658-9ccf-919c37446674" />
+
+<img width="558" height="237" alt="image" src="https://github.com/user-attachments/assets/b8ca2abe-d8d9-4bc5-9575-7f98e887db12" />
+
+<img width="511" height="129" alt="image" src="https://github.com/user-attachments/assets/31f7c441-9598-4ad3-929c-529bca17d9b9" />
+
+
+
+
+
 
 
 
